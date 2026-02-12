@@ -12,4 +12,4 @@ Letters are about communication, and we want you to communicate with us. If thes
 
 Or use this QR Code to access the submission form on your device
 
-{% include feature/image.html objectid="https://kfl-exhibits.github.io/exhibits-image-host/lettersQR.png" alt="QR code" %}
+{% include feature/image.html objectid="https://kfl-exhibits.github.io/exhibits-image-host/lettersQR.png" width="50" alt="QR code" %}
